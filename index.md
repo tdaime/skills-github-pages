@@ -1,6 +1,4 @@
-# Thisd is My First Github Page 
-
-
+# This is my first Github Page 
 ---
 ## Personal Blog 
 ---
